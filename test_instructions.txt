@@ -1,0 +1,11 @@
+Follow these Instructions for Successful 'CI/CD'-checks, every-time before committing/pushing your changes to 'GitHub' -->>
+
+1. npm run format:check
+2. npm run format:fix
+3. npm run lint:check
+4. npm run lint:fix
+5. npm run type-check
+6. npm run dev
+
+7. npm run build
+8. npm start
