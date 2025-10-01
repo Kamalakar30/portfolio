@@ -22,23 +22,10 @@ Hello all! Welcome to my Portfolio project,, designed to showcase my skills, pro
 
 ## Live Demo
 
-- **Official Version (`TS`):** https://srinivas-batthula.vercel.app
-- **Older Version (`JS`):** https://srinivas-batthula.github.io/portfolio
+- **Official Version (`TS`):** https://kamalakar.vercel.app
+- **Older Version (`JS`):** https://kamalakar30.github.io/portfolio
 
 ## Tech Stack
 
 **Client:** NextJs, React.Js, Zustand, React-Bootsrap, TailwindCSS, IndexedDB, PWA, SEO, TypeScript, GitHub Actions
 
-## Local Setup
-
-**Follow these files for Local Setup ->**
-    - [setup_instructions.txt](https://github.com/srinivas-batthula/Portfolio/blob/main/setup_instructions.txt)
-    - [test_instructions.txt](https://github.com/srinivas-batthula/Portfolio/blob/main/test_instructions.txt)
-
-## Logo
-
-![Logo](https://github.com/srinivas-batthula/portfolio/blob/main/public/icon.png)
-
-## Authors
-
-- [@srinivas-batthula](https://www.github.com/srinivas-batthula)
