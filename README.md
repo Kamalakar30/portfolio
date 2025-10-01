@@ -23,7 +23,6 @@ Hello all! Welcome to my Portfolio project,, designed to showcase my skills, pro
 ## Live Demo
 
 - **Official Version (`TS`):** https://kamalakar.vercel.app
-- **Older Version (`JS`):** https://kamalakar30.github.io/portfolio
 
 ## Tech Stack
 
